@@ -1,0 +1,594 @@
+,logtype,@timestamp,system,hostname,loghost,envname,procname,procid,module,keywname,keywvalue,keymask,logtext,errstack,errstackidx,errlocation,errseverity,csvfile
+0,LOG,2018-01-28T06:20:07.412Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T06:20:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+1,LOG,2018-01-28T06:20:10.282Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T06:20:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+2,LOG,2018-01-27T09:04:29.130Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1458 seconds at 2018-01-27T09:04:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+3,LOG,2018-01-27T09:05:13.365Z,GRAVITY,wgv,wgv,wgv,bob_ins,195,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+4,LOG,2018-01-30T06:40:41.712Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T06:40:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+5,LOG,2018-01-30T06:40:41.712Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: CAL_HD55526 // OBS.ID: 1828997),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+6,LOG,2018-02-04T18:41:25.773Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-04.csv
+7,LOG,2018-02-03T12:41:02.246Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB started at 2018-02-03T12:41:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+8,LOG,2018-02-02T18:08:33.399Z,GRAVITY,wgv,wgv,wgv,bob_36376,97,seq,,,,OB started at 2018-02-02T18:08:33,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+9,LOG,2018-02-02T18:08:33.400Z,GRAVITY,wgv,wgv,wgv,bob_36376,97,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+10,LOG,2018-01-30T07:50:05.781Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+11,LOG,2018-02-01T14:00:35.169Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB started at 2018-02-01T14:00:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+12,LOG,2018-02-01T14:00:35.169Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+13,LOG,2018-02-01T14:17:32.104Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB aborted after 1017 seconds at 2018-02-01T14:17:32,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+14,LOG,2018-02-01T14:19:10.491Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB started at 2018-02-01T14:19:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+15,LOG,2018-02-01T14:19:57.497Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB aborted after 39 seconds at 2018-02-01T14:19:49,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+16,LOG,2018-02-01T14:20:55.055Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB started at 2018-02-01T14:20:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+17,LOG,2018-02-01T14:20:55.055Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+18,LOG,2018-02-01T14:22:28.321Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB aborted after 39 seconds at 2018-02-01T14:22:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+19,LOG,2018-02-01T14:23:56.594Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+20,LOG,2018-02-02T18:19:41.364Z,GRAVITY,wgv,wgv,wgv,bob_36376,97,seq,,,,OB paused at 2018-02-02T18:19:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+21,LOG,2018-01-29T09:21:37.586Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1104 seconds at 2018-01-29T09:21:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+22,LOG,2018-02-03T12:41:02.246Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+23,LOG,2018-02-03T12:45:58.759Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB aborted after 294 seconds at 2018-02-03T12:45:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+24,LOG,2018-02-04T18:41:25.773Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB started at 2018-02-04T18:41:25,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-04.csv
+25,LOG,2018-01-30T07:50:05.777Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+26,LOG,2018-01-31T06:46:33.053Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+27,LOG,2018-02-04T01:18:17.371Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB started at 2018-02-04T01:18:17,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+28,LOG,2018-02-04T01:18:17.371Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,(OBS.NAME: B02_HD45669_MED_SPLIT // OBS.ID: 200426867),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+29,LOG,2018-02-03T15:29:07.745Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+30,LOG,2018-02-03T15:29:07.745Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB started at 2018-02-03T15:29:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+31,LOG,2018-01-29T08:44:14.904Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 3163 seconds at 2018-01-29T08:44:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+32,LOG,2018-02-01T14:03:12.598Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB paused at 2018-02-01T14:03:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+33,LOG,2018-02-01T14:21:30.906Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB aborted after 35 seconds at 2018-02-01T14:21:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+34,LOG,2018-02-01T14:21:44.297Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB started at 2018-02-01T14:21:44,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+35,LOG,2018-02-01T14:21:44.297Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+36,LOG,2018-02-01T14:23:56.594Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB started at 2018-02-01T14:23:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+37,LOG,2018-01-30T05:50:39.804Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T05:50:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+38,LOG,2018-01-30T05:50:39.804Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828994),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+39,LOG,2018-02-02T22:33:40.417Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB paused at 2018-02-02T22:33:40,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+40,LOG,2018-02-01T14:54:28.528Z,GRAVITY,wgv,wgv,wgv,bob_48152,216,seq,,,,OB started at 2018-02-01T14:54:28,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+41,LOG,2018-02-01T14:54:28.528Z,GRAVITY,wgv,wgv,wgv,bob_48152,216,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+42,LOG,2018-02-05T13:23:21.820Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB paused at 2018-02-05T13:23:21,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+43,LOG,2018-02-01T19:29:51.410Z,GRAVITY,wgv,wgv,wgv,bob_32178,234,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+44,LOG,2018-02-05T14:34:50.593Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB started at 2018-02-05T14:34:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+45,LOG,2018-01-29T07:02:01.519Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1194 seconds at 2018-01-29T07:02:01,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+46,LOG,2018-01-29T07:02:11.131Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T07:02:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+47,LOG,2018-01-31T06:46:33.053Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,OB started at 2018-01-31T06:46:33,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+48,LOG,2018-01-29T07:27:41.043Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,"Parallel : WaitForAll failed, reason : ACK ABORT (red)",0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+49,LOG,2018-01-29T05:30:00.040Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1744 seconds at 2018-01-29T05:30:00,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+50,LOG,2018-01-29T05:30:06.805Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_HD45677_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_FT // OBS.ID: 1797296),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+51,LOG,2018-01-28T04:44:51.475Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 473 seconds at 2018-01-28T04:44:51,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+52,LOG,2018-02-04T06:07:02.156Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB started at 2018-02-04T06:07:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+53,LOG,2018-02-04T06:07:02.156Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0G1J2J3_LOW-COMBINED_noFT // OBS.ID: 1810748),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+54,LOG,2018-01-28T07:31:35.969Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T07:31:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+55,LOG,2018-01-31T08:11:33.088Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,OB finished (TERMINATED) in 5100 seconds at 2018-01-31T08:11:33,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+56,LOG,2018-01-28T04:47:18.632Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810783),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+57,LOG,2018-01-30T04:37:55.932Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1440 seconds at 2018-01-30T04:37:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+58,LOG,2018-01-30T04:38:08.007Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828987),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+59,LOG,2018-01-28T04:36:50.808Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 2142 seconds at 2018-01-28T04:36:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+60,LOG,2018-02-05T14:34:50.593Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+61,LOG,2018-01-28T04:19:42.615Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T04:19:42,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+62,LOG,2018-01-29T07:34:55.596Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T07:34:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+63,LOG,2018-01-29T07:34:12.705Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-29T07:34:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+64,LOG,2018-01-30T07:11:07.973Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1826 seconds at 2018-01-30T07:11:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+65,LOG,2018-01-30T07:13:26.966Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_GGCar // OBS.ID: 1775245),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+66,LOG,2018-01-30T07:11:53.654Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_GGCar // OBS.ID: 1775245),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+67,LOG,2018-01-30T07:11:53.653Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T07:11:53,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+68,LOG,2018-01-29T08:25:35.892Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-29T08:25:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+69,LOG,2018-01-29T07:47:21.244Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1168 seconds at 2018-01-29T07:47:21,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+70,LOG,2018-01-29T07:55:03.337Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T07:55:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+71,LOG,2018-01-28T05:04:12.555Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1014 seconds at 2018-01-28T05:04:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+72,LOG,2018-02-06T00:44:49.938Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB started at 2018-02-06T00:44:49,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+73,LOG,2018-02-06T00:49:03.550Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB aborted after 71 seconds at 2018-02-06T00:49:01,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+74,LOG,2018-02-06T00:49:07.676Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB started at 2018-02-06T00:49:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+75,LOG,2018-02-06T00:49:43.476Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB started at 2018-02-06T00:49:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+76,LOG,2018-02-06T00:49:43.476Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,(OBS.NAME: CAL_HD38117 // OBS.ID: 1400141),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+77,LOG,2018-01-28T05:06:15.734Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 0 seconds at 2018-01-28T05:06:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+78,LOG,2018-01-28T05:06:21.653Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T05:06:21,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+79,LOG,2018-02-02T23:02:23.204Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB finished (TERMINATED) in 5476 seconds at 2018-02-02T23:02:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+80,LOG,2018-02-05T14:38:58.419Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+81,LOG,2018-01-27T08:40:11.470Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T08:40:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+82,LOG,2018-01-27T08:40:11.470Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: CAL_HD80404 // OBS.ID: 1818573),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+83,LOG,2018-01-27T10:48:55.629Z,GRAVITY,wgv,wgv,wgv,bob_ins,195,seq,,,,OB finished (TERMINATED) in 6222 seconds at 2018-01-27T10:48:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+84,LOG,2018-01-29T09:03:13.045Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T09:03:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+85,LOG,2018-01-29T09:04:10.175Z,GRAVITY,wgv,wgv,wgv,bob_22602,196,seq,,,,(OBS.NAME: CAL_AlfCenAB_FTA_SCB // OBS.ID: 1800719),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+86,LOG,2018-01-29T07:27:43.010Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+87,LOG,2018-01-29T07:27:53.957Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T07:27:53,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+88,LOG,2018-02-05T14:58:11.394Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,OB finished (TERMINATED) in 221 seconds at 2018-02-05T14:58:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+89,LOG,2018-01-28T05:15:34.337Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T05:15:34,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+90,LOG,2018-02-02T22:38:57.503Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB continued at 2018-02-02T22:38:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+91,LOG,2018-02-05T13:38:30.501Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB started at 2018-02-05T13:38:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+92,LOG,2018-02-05T13:38:30.501Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+93,LOG,2018-01-29T09:22:37.247Z,GRAVITY,wgv,wgv,wgv,bob_22602,196,seq,,,,OB continued at 2018-01-29T09:22:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+94,LOG,2018-01-29T09:22:37.269Z,GRAVITY,wgv,wgv,wgv,bob_22602,196,seq,,,,OB finished (TERMINATED) in 1107 seconds at 2018-01-29T09:22:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+95,LOG,2018-01-29T08:25:49.225Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T08:25:49,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+96,LOG,2018-02-05T13:20:59.540Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+97,LOG,2018-01-28T07:59:50.218Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 2480 seconds at 2018-01-28T07:59:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+98,LOG,2018-01-28T08:00:00.074Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T08:00:00,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+99,LOG,2018-01-28T08:00:00.074Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810809),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+100,LOG,2018-01-28T05:48:39.081Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 2538 seconds at 2018-01-28T05:48:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+101,LOG,2018-01-28T05:49:02.856Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T05:49:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+102,LOG,2018-01-28T05:49:02.877Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T05:49:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+103,LOG,2018-01-28T08:09:03.497Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T08:09:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+104,LOG,2018-01-28T06:48:49.075Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810797),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+105,LOG,2018-01-28T05:54:12.063Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T05:54:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+106,LOG,2018-01-28T06:11:57.567Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810794),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+107,LOG,2018-01-29T08:44:26.670Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_AlfCenAB_FTA_SCB // OBS.ID: 1800719),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+108,LOG,2018-01-28T06:11:57.567Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T06:11:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+109,LOG,2018-01-29T07:08:30.129Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T07:08:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+110,LOG,2018-01-29T08:56:50.571Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_AlfCenAB_FTA_SCB // OBS.ID: 1800719),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+111,LOG,2018-01-29T08:56:15.407Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 700 seconds at 2018-01-29T08:56:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+112,LOG,2018-01-30T10:48:59.883Z,GRAVITY,wgv,wgv,wgv,bob_ins,197,seq,,,,OB finished (TERMINATED) in 10612 seconds at 2018-01-30T10:48:59,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+113,LOG,2018-01-28T07:00:15.745Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T07:00:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+114,LOG,2018-01-28T07:00:18.953Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T07:00:18,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+115,LOG,2018-01-28T07:17:10.756Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1701 seconds at 2018-01-28T07:17:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+116,LOG,2018-02-04T01:36:36.238Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB finished (TERMINATED) in 1099 seconds at 2018-02-04T01:36:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+117,LOG,2018-02-01T13:25:18.727Z,GRAVITY,wgv,wgv,wgv,bob_ins,204,seq,,,,OB finished (TERMINATED) in 18972 seconds at 2018-02-01T13:25:18,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+118,LOG,2018-02-01T14:19:10.491Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+119,LOG,2018-02-01T14:21:30.899Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+120,LOG,2018-02-01T14:26:03.402Z,GRAVITY,wgv,wgv,wgv,bob_47127,197,seq,,,,OB paused at 2018-02-01T14:26:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+121,LOG,2018-01-28T04:47:18.632Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T04:47:18,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+122,LOG,2018-02-05T14:42:55.758Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB finished (TERMINATED) in 237 seconds at 2018-02-05T14:42:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+123,LOG,2018-02-05T13:47:36.555Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB paused at 2018-02-05T13:47:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+124,LOG,2018-02-02T09:00:12.387Z,GRAVITY,wgv,wgv,wgv,bob_ins,223,seq,,,,OB started at 2018-02-02T09:00:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+125,LOG,2018-02-03T19:09:11.495Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB finished (TERMINATED) in 4302 seconds at 2018-02-03T19:09:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+126,LOG,2018-01-28T07:31:43.331Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T07:31:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+127,LOG,2018-02-01T15:50:25.538Z,GRAVITY,wgv,wgv,wgv,bob_48152,216,seq,,,,OB finished (TERMINATED) in 1234 seconds at 2018-02-01T15:50:25,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+128,LOG,2018-02-01T15:55:11.863Z,GRAVITY,wgv,wgv,wgv,bob_48982,163,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+129,LOG,2018-02-01T15:56:15.652Z,GRAVITY,wgv,wgv,wgv,bob_48982,163,seq,,,,OB finished (TERMINATED) in 64 seconds at 2018-02-01T15:56:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+130,LOG,2018-01-28T08:31:15.953Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T08:31:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+131,LOG,2018-01-29T08:56:59.409Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 0 seconds at 2018-01-29T08:56:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+132,LOG,2018-02-05T21:24:36.689Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB finished (TERMINATED) in 3658 seconds at 2018-02-05T21:24:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+133,LOG,2018-01-25T19:12:22.603Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+134,LOG,2018-01-30T07:50:05.790Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB aborted after 2199 seconds at 2018-01-30T07:50:05,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+135,LOG,2018-01-27T06:43:50.208Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T06:43:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+136,LOG,2018-02-06T01:08:08.076Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB finished (TERMINATED) in 1105 seconds at 2018-02-06T01:08:08,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+137,LOG,2018-02-03T17:00:32.803Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB finished (TERMINATED) in 5485 seconds at 2018-02-03T17:00:32,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+138,LOG,2018-02-06T01:10:40.837Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,(OBS.NAME: SCI_GWOri // OBS.ID: 1400138),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+139,LOG,2018-02-02T21:31:07.465Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB started at 2018-02-02T21:31:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+140,LOG,2018-02-02T21:31:07.465Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+141,LOG,2018-01-30T04:11:11.637Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1884 seconds at 2018-01-30T04:11:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+142,LOG,2018-02-03T17:57:29.068Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+143,LOG,2018-02-01T19:29:51.410Z,GRAVITY,wgv,wgv,wgv,bob_32178,234,seq,,,,OB started at 2018-02-01T19:29:51,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+144,LOG,2018-01-28T02:32:36.003Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T02:32:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+145,LOG,2018-02-01T21:03:02.203Z,GRAVITY,wgv,wgv,wgv,bob_32178,234,seq,,,,OB finished (TERMINATED) in 5591 seconds at 2018-02-01T21:03:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+146,LOG,2018-01-28T01:40:53.108Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+147,LOG,2018-02-05T08:22:18.003Z,GRAVITY,wgv,wgv,wgv,bob_ins,216,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-04.csv
+148,LOG,2018-01-27T06:15:11.580Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: SCI_RCar // OBS.ID: 1818556),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+149,LOG,2018-01-29T04:40:02.014Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-29T04:40:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+150,LOG,2018-01-27T06:14:36.126Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1570 seconds at 2018-01-27T06:14:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+151,LOG,2018-02-05T15:17:06.344Z,GRAVITY,wgv,wgv,wgv,bob_45446,150,seq,,,,OB started at 2018-02-05T15:17:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+152,LOG,2018-02-05T15:17:06.344Z,GRAVITY,wgv,wgv,wgv,bob_45446,150,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+153,LOG,2018-02-05T14:54:30.257Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,OB started at 2018-02-05T14:54:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+154,LOG,2018-02-05T14:54:30.258Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+155,LOG,2018-01-30T03:53:57.975Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T03:53:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+156,LOG,2018-01-30T03:54:11.626Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T03:54:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+157,LOG,2018-02-02T09:00:12.387Z,GRAVITY,wgv,wgv,wgv,bob_ins,223,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+158,LOG,2018-02-02T11:46:08.647Z,GRAVITY,wgv,wgv,wgv,bob_ins,223,seq,,,,OB finished (TERMINATED) in 9956 seconds at 2018-02-02T11:46:08,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+159,LOG,2018-01-28T03:36:55.362Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1035 seconds at 2018-01-28T03:36:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+160,LOG,2018-02-04T06:43:39.955Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB started at 2018-02-04T06:43:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+161,LOG,2018-02-04T06:43:39.955Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0G1J2J3_LOW-COMBINED_FT // OBS.ID: 1810751),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+162,LOG,2018-02-05T15:11:05.172Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+163,LOG,2018-01-31T13:21:38.457Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,OB started at 2018-01-31T13:21:38,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+164,LOG,2018-01-31T13:21:38.457Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+165,LOG,2018-02-05T15:06:17.708Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+166,LOG,2018-02-05T15:27:51.900Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB started at 2018-02-05T15:27:51,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+167,LOG,2018-01-28T01:47:05.807Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T01:47:05,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+168,LOG,2018-02-05T15:22:34.090Z,GRAVITY,wgv,wgv,wgv,bob_45446,150,seq,,,,OB finished (TERMINATED) in 328 seconds at 2018-02-05T15:22:34,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+169,LOG,2018-02-01T14:55:14.856Z,GRAVITY,wgv,wgv,wgv,bob_48152,216,seq,,,,OB finished (TERMINATED) in 46 seconds at 2018-02-01T14:55:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+170,LOG,2018-02-01T15:29:51.114Z,GRAVITY,wgv,wgv,wgv,bob_48152,216,seq,,,,OB started at 2018-02-01T15:29:51,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+171,LOG,2018-02-01T15:29:51.114Z,GRAVITY,wgv,wgv,wgv,bob_48152,216,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+172,LOG,2018-02-01T15:55:11.863Z,GRAVITY,wgv,wgv,wgv,bob_48982,163,seq,,,,OB started at 2018-02-01T15:55:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-01.csv
+173,LOG,2018-01-31T13:30:22.863Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,OB paused at 2018-01-31T13:30:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+174,LOG,2018-01-28T01:16:09.035Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T01:16:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+175,LOG,2018-01-28T01:16:13.152Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T01:16:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+176,LOG,2018-01-28T09:19:23.834Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1349 seconds at 2018-01-28T09:19:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+177,LOG,2018-01-25T22:16:28.482Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,OB finished (TERMINATED) in 2401 seconds at 2018-01-25T22:16:28,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+178,LOG,2018-02-03T17:57:29.068Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB started at 2018-02-03T17:57:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+179,LOG,2018-01-30T03:39:47.535Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810780),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+180,LOG,2018-02-05T15:05:14.133Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,OB finished (TERMINATED) in 310 seconds at 2018-02-05T15:05:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+181,LOG,2018-02-03T07:40:09.922Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+182,LOG,2018-02-03T07:40:28.585Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,(OBS.NAME: B02_HD111862_MED_SPLIT // OBS.ID: 200426249),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+183,LOG,2018-01-29T05:00:44.682Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 2019 seconds at 2018-01-29T05:00:44,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+184,LOG,2018-01-29T05:00:56.026Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_HD55526 // OBS.ID: 1828948),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+185,LOG,2018-01-30T04:13:55.189Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T04:13:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+186,LOG,2018-01-30T04:13:55.189Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810783),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+187,LOG,2018-02-04T20:25:05.245Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB finished (TERMINATED) in 6220 seconds at 2018-02-04T20:25:05,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-04.csv
+188,LOG,2018-02-05T14:37:47.606Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB finished (TERMINATED) in 177 seconds at 2018-02-05T14:37:47,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+189,LOG,2018-02-05T14:38:58.419Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB started at 2018-02-05T14:38:58,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+190,LOG,2018-01-31T20:14:06.404Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+191,LOG,2018-01-31T20:15:42.022Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB started at 2018-01-31T20:15:42,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+192,LOG,2018-01-31T20:07:17.196Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB started at 2018-01-31T20:07:17,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+193,LOG,2018-01-28T03:43:36.960Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T03:43:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+194,LOG,2018-01-28T03:43:41.541Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T03:43:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+195,LOG,2018-01-31T20:21:48.666Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+196,LOG,2018-01-31T20:30:08.412Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB started at 2018-01-31T20:30:08,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+197,LOG,2018-01-31T20:32:06.976Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB aborted after 118 seconds at 2018-01-31T20:32:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+198,LOG,2018-01-27T08:13:16.558Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T08:13:16,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+199,LOG,2018-01-31T05:37:19.287Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 826 seconds at 2018-01-31T05:35:25,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+200,LOG,2018-02-03T07:40:09.915Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+201,LOG,2018-02-03T07:41:14.347Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB aborted after 38 seconds at 2018-02-03T07:41:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+202,LOG,2018-02-03T07:42:53.617Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,(OBS.NAME: B02_HD112213_MED_SPLIT // OBS.ID: 200426255),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+203,LOG,2018-01-30T05:09:30.884Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828987),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+204,LOG,2018-02-05T13:20:59.540Z,GRAVITY,wgv,wgv,wgv,bob_16237,115,seq,,,,OB started at 2018-02-05T13:20:59,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+205,LOG,2018-01-28T03:19:40.614Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T03:19:40,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+206,LOG,2018-01-30T01:16:50.181Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:16:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+207,LOG,2018-01-27T07:47:53.800Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 2346 seconds at 2018-01-27T07:47:53,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+208,LOG,2018-01-27T07:48:01.804Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: CAL_HD80404 // OBS.ID: 1818566),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+209,LOG,2018-01-30T01:29:26.979Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:29:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+210,LOG,2018-01-30T01:31:24.739Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T01:31:24,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+211,LOG,2018-01-30T01:34:41.670Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 6666 seconds at 2018-01-30T01:34:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+212,LOG,2018-01-26T22:02:10.973Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T22:02:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+213,LOG,2018-01-31T05:21:39.123Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-31T05:21:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+214,LOG,2018-01-27T07:08:47.835Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: SCI_RCar // OBS.ID: 1818563),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+215,LOG,2018-02-05T16:17:58.197Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB finished (TERMINATED) in 437 seconds at 2018-02-05T16:17:58,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+216,LOG,2018-01-27T19:40:56.951Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-27T19:40:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+217,LOG,2018-01-27T19:40:56.951Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+218,LOG,2018-01-30T15:21:26.857Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-30T15:21:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+219,LOG,2018-01-30T00:07:29.567Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T00:07:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+220,LOG,2018-01-30T00:11:45.907Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T00:11:45,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+221,LOG,2018-01-30T00:31:12.496Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T00:31:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+222,LOG,2018-01-28T19:08:19.968Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+223,LOG,2018-02-05T16:08:23.964Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB started at 2018-02-05T16:08:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+224,LOG,2018-02-05T16:09:49.345Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,"Parallel : WaitForAll failed, reason : ACK ABORT (red)",0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+225,LOG,2018-02-05T16:09:50.628Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB aborted after 87 seconds at 2018-02-05T16:09:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+226,LOG,2018-02-05T16:10:41.992Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+227,LOG,2018-01-29T05:42:46.564Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T05:42:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+228,LOG,2018-01-29T05:42:46.564Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_HD45677_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_FT // OBS.ID: 1797296),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+229,LOG,2018-01-29T05:42:51.862Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+230,LOG,2018-01-29T05:43:11.331Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T05:43:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+231,LOG,2018-01-31T04:52:02.223Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-31T04:52:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+232,LOG,2018-01-31T06:03:41.498Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 81 seconds at 2018-01-31T05:54:34,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+233,LOG,2018-01-26T20:05:34.604Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-26T20:05:34,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+234,LOG,2018-02-05T16:22:06.499Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+235,LOG,2018-01-28T00:38:14.250Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1728 seconds at 2018-01-28T00:38:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+236,LOG,2018-01-28T00:39:22.232Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T00:39:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+237,LOG,2018-02-03T09:35:29.087Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+238,LOG,2018-02-03T09:37:38.010Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB aborted after 4 seconds at 2018-02-03T09:37:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+239,LOG,2018-01-31T00:18:57.845Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB finished (TERMINATED) in 32251 seconds at 2018-01-31T00:18:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+240,LOG,2018-02-05T16:29:21.999Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB finished (TERMINATED) in 435 seconds at 2018-02-05T16:29:21,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+241,LOG,2018-02-05T16:29:48.431Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB started at 2018-02-05T16:29:48,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+242,LOG,2018-02-05T16:29:48.431Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+243,LOG,2018-01-27T05:30:03.519Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-27T05:30:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+244,LOG,2018-02-05T16:08:23.964Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,(OBS.NAME: Maintenance // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+245,LOG,2018-01-28T01:10:50.559Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T01:10:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+246,LOG,2018-01-30T03:10:53.572Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: CAL_HD55526 // OBS.ID: 1828983),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+247,LOG,2018-02-03T09:34:57.554Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB aborted after 1 seconds at 2018-02-03T09:34:47,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+248,LOG,2018-02-03T09:35:29.087Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB started at 2018-02-03T09:35:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+249,LOG,2018-02-03T09:40:43.603Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB started at 2018-02-03T09:40:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+250,LOG,2018-02-03T09:40:43.603Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+251,LOG,2018-01-27T05:06:37.059Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-27T05:06:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+252,LOG,2018-02-05T16:30:56.280Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB finished (TERMINATED) in 68 seconds at 2018-02-05T16:30:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+253,LOG,2018-01-30T02:02:26.823Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: CAL_HD37160_GRAVITY_A0B2C1D0_HIGH-COMBINED_FT_3 // OBS.ID: 1787461),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+254,LOG,2018-01-30T02:03:06.458Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+255,LOG,2018-01-30T02:03:06.466Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB aborted after 40 seconds at 2018-01-30T02:03:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+256,LOG,2018-01-29T03:24:23.314Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T03:24:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+257,LOG,2018-01-29T02:58:29.608Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: M05_HD44893_MED_SPLIT // OBS.ID: 200429030),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+258,LOG,2018-01-29T03:04:45.848Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 376 seconds at 2018-01-29T03:04:45,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+259,LOG,2018-01-29T03:04:56.778Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T03:04:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+260,LOG,2018-01-29T03:04:56.778Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: M05_HD44893_MED_SPLIT // OBS.ID: 200429030),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+261,LOG,2018-01-29T02:58:29.607Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T02:58:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+262,LOG,2018-02-03T10:34:16.648Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB finished (TERMINATED) in 3213 seconds at 2018-02-03T10:34:16,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+263,LOG,2018-01-28T00:23:44.758Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T00:23:44,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+264,LOG,2018-01-28T00:53:37.570Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T00:53:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+265,LOG,2018-01-27T05:19:03.217Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: SCI_RCar // OBS.ID: 1818547),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+266,LOG,2018-02-05T18:16:57.844Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+267,LOG,2018-02-03T07:38:39.856Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB started at 2018-02-03T07:38:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+268,LOG,2018-02-03T07:38:39.856Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,(OBS.NAME: B02_HD111862_MED_SPLIT // OBS.ID: 200426249),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+269,LOG,2018-01-26T22:15:33.442Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T22:15:33,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+270,LOG,2018-01-26T22:18:30.576Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T22:18:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+271,LOG,2018-01-28T21:58:12.316Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-28T21:58:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+272,LOG,2018-01-28T21:59:29.186Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 10270 seconds at 2018-01-28T21:59:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+273,LOG,2018-01-26T23:42:16.192Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 13002 seconds at 2018-01-26T23:42:16,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+274,LOG,2018-02-06T00:47:50.115Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB started at 2018-02-06T00:47:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+275,LOG,2018-02-06T00:47:50.116Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,(OBS.NAME: CAL_HD38117 // OBS.ID: 1400141),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+276,LOG,2018-02-06T00:49:07.676Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,(OBS.NAME: CAL_HD38117 // OBS.ID: 1400141),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+277,LOG,2018-02-06T00:49:30.682Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB aborted after 12 seconds at 2018-02-06T00:49:19,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+278,LOG,2018-02-05T15:27:51.900Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+279,LOG,2018-01-27T23:39:28.450Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-27T23:39:28,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+280,LOG,2018-01-29T03:16:44.446Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-29T03:16:44,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+281,LOG,2018-01-31T00:35:39.280Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 157 seconds at 2018-01-31T00:35:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+282,LOG,2018-01-31T00:35:42.837Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-31T00:35:42,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+283,LOG,2018-01-30T02:41:55.727Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T02:41:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+284,LOG,2018-01-29T03:57:23.647Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T03:57:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+285,LOG,2018-01-29T03:57:23.647Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_HD44842_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_noFT // OBS.ID: 1797290),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+286,LOG,2018-02-05T19:48:23.957Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,OB aborted after 5087 seconds at 2018-02-05T19:41:44,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+287,LOG,2018-02-05T15:14:46.036Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,OB finished (TERMINATED) in 221 seconds at 2018-02-05T15:14:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+288,LOG,2018-01-28T03:37:29.878Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HD45496_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_noFT // OBS.ID: 1797299),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+289,LOG,2018-02-05T15:11:05.172Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,OB started at 2018-02-05T15:11:05,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+290,LOG,2018-01-31T20:21:48.665Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB started at 2018-01-31T20:21:48,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+291,LOG,2018-01-31T20:26:00.047Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+292,LOG,2018-01-31T20:33:02.133Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB started at 2018-01-31T20:33:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+293,LOG,2018-01-31T20:33:02.133Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+294,LOG,2018-01-31T20:35:02.882Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+295,LOG,2018-01-31T20:35:02.893Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB aborted after 120 seconds at 2018-01-31T20:35:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+296,LOG,2018-01-31T20:40:49.592Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+297,LOG,2018-01-29T06:16:10.809Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 1979 seconds at 2018-01-29T06:16:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+298,LOG,2018-01-29T06:16:28.832Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_HD55526 // OBS.ID: 1828976),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+299,LOG,2018-01-31T20:07:17.196Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+300,LOG,2018-01-31T20:14:06.416Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB aborted after 409 seconds at 2018-01-31T20:14:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+301,LOG,2018-01-31T20:17:34.211Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+302,LOG,2018-01-31T20:15:42.022Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+303,LOG,2018-01-27T08:13:01.345Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1500 seconds at 2018-01-27T08:13:01,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+304,LOG,2018-01-27T05:48:26.132Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: CAL_HD80404 // OBS.ID: 1818551),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+305,LOG,2018-01-29T05:00:56.026Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T05:00:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+306,LOG,2018-01-29T04:26:43.602Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1760 seconds at 2018-01-29T04:26:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+307,LOG,2018-01-29T04:27:05.468Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T04:27:05,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+308,LOG,2018-01-29T04:27:05.468Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828945),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+309,LOG,2018-01-28T03:18:35.371Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 2759 seconds at 2018-01-28T03:18:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+310,LOG,2018-01-30T05:22:13.280Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: CAL_HD55526 // OBS.ID: 1828990),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+311,LOG,2018-01-28T01:40:53.111Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+312,LOG,2018-01-28T01:40:53.122Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB aborted after 428 seconds at 2018-01-28T01:40:53,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+313,LOG,2018-01-28T01:40:55.776Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T01:40:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+314,LOG,2018-01-28T01:40:55.776Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_Rigel // OBS.ID: 1807274),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+315,LOG,2018-01-28T01:47:01.383Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T01:47:01,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+316,LOG,2018-01-30T03:39:47.535Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T03:39:47,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+317,LOG,2018-02-03T07:40:09.931Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB aborted after 90 seconds at 2018-02-03T07:40:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+318,LOG,2018-02-03T07:40:28.585Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB started at 2018-02-03T07:40:28,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+319,LOG,2018-02-03T07:42:53.617Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB started at 2018-02-03T07:42:53,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+320,LOG,2018-02-05T20:12:55.483Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+321,LOG,2018-02-05T20:14:24.571Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+322,LOG,2018-01-28T01:33:11.205Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1341 seconds at 2018-01-28T01:33:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+323,LOG,2018-01-30T03:39:03.214Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1690 seconds at 2018-01-30T03:39:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+324,LOG,2018-01-28T04:19:46.796Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T04:19:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+325,LOG,2018-02-05T16:09:50.623Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+326,LOG,2018-02-05T16:10:41.991Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB started at 2018-02-05T16:10:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+327,LOG,2018-01-27T08:40:02.478Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1606 seconds at 2018-01-27T08:40:02,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+328,LOG,2018-01-28T04:01:08.875Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T04:01:08,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+329,LOG,2018-01-28T04:01:08.875Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810780),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+330,LOG,2018-01-31T21:44:55.689Z,GRAVITY,wgv,wgv,wgv,bob_2631,170,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+331,LOG,2018-01-31T21:44:55.698Z,GRAVITY,wgv,wgv,wgv,bob_2631,170,seq,,,,OB aborted after 190 seconds at 2018-01-31T21:44:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+332,LOG,2018-01-27T08:21:51.434Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-27T08:21:51,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+333,LOG,2018-02-05T08:22:18.003Z,GRAVITY,wgv,wgv,wgv,bob_ins,216,seq,,,,OB started at 2018-02-05T08:22:18,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-04.csv
+334,LOG,2018-01-30T05:50:27.009Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1694 seconds at 2018-01-30T05:50:27,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+335,LOG,2018-01-31T05:52:26.146Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 25 seconds at 2018-01-31T05:49:24,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+336,LOG,2018-01-31T05:53:13.344Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1829001),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+337,LOG,2018-01-29T06:35:06.389Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+338,LOG,2018-01-29T06:35:06.403Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 1118 seconds at 2018-01-29T06:35:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+339,LOG,2018-02-05T15:37:09.289Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB paused at 2018-02-05T15:37:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+340,LOG,2018-01-31T17:50:22.901Z,GRAVITY,wgv,wgv,wgv,bob_23760,35,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+341,LOG,2018-01-29T05:59:35.341Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T05:59:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+342,LOG,2018-01-25T21:36:27.060Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,OB started at 2018-01-25T21:36:27,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+343,LOG,2018-02-05T20:23:38.040Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB started at 2018-02-05T20:23:38,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+344,LOG,2018-02-05T20:23:38.040Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+345,LOG,2018-02-03T07:55:07.123Z,GRAVITY,wgv,wgv,wgv,bob_46646,28,seq,,,,OB finished (TERMINATED) in 734 seconds at 2018-02-03T07:55:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+346,LOG,2018-02-05T20:13:44.429Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,OB aborted after 22 seconds at 2018-02-05T20:13:17,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+347,LOG,2018-02-05T15:06:17.708Z,GRAVITY,wgv,wgv,wgv,bob_10418,142,seq,,,,OB started at 2018-02-05T15:06:17,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+348,LOG,2018-02-05T16:22:06.498Z,GRAVITY,wgv,wgv,wgv,bob_17617,85,seq,,,,OB started at 2018-02-05T16:22:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+349,LOG,2018-02-03T09:34:46.645Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB started at 2018-02-03T09:34:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+350,LOG,2018-02-03T09:34:46.645Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+351,LOG,2018-02-03T09:35:33.759Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB aborted after 0 seconds at 2018-02-03T09:35:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+352,LOG,2018-02-03T09:37:26.169Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,OB started at 2018-02-03T09:37:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+353,LOG,2018-02-03T09:37:26.170Z,GRAVITY,wgv,wgv,wgv,bob_ins,77,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-02.csv
+354,LOG,2018-01-24T07:48:21.505Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,OB started at 2018-01-24T07:48:21,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+355,LOG,2018-01-24T07:48:21.505Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+356,LOG,2018-01-24T08:23:22.078Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,OB started at 2018-01-24T08:23:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+357,LOG,2018-01-24T08:23:55.525Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,OB started at 2018-01-24T08:23:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+358,LOG,2018-01-24T08:23:55.525Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+359,LOG,2018-02-05T18:16:57.844Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,OB started at 2018-02-05T18:16:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+360,LOG,2018-02-06T00:44:49.939Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,(OBS.NAME: CAL_HD38117 // OBS.ID: 1400141),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+361,LOG,2018-02-06T00:47:44.239Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB aborted after 145 seconds at 2018-02-06T00:47:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+362,LOG,2018-01-24T11:56:57.763Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB started at 2018-01-24T11:56:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+363,LOG,2018-01-29T23:53:42.443Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-29T23:53:42,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+364,LOG,2018-01-26T20:44:12.930Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T20:44:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+365,LOG,2018-01-30T01:05:58.029Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:05:58,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+366,LOG,2018-01-30T01:09:56.815Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T01:09:56,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+367,LOG,2018-01-30T01:12:30.272Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:12:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+368,LOG,2018-01-30T02:02:26.823Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T02:02:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+369,LOG,2018-01-30T02:03:15.151Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T02:03:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+370,LOG,2018-01-30T02:03:15.151Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: CAL_HD37160_GRAVITY_A0B2C1D0_HIGH-COMBINED_FT_3 // OBS.ID: 1787461),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+371,LOG,2018-01-29T23:43:35.234Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-29T23:43:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+372,LOG,2018-01-29T23:43:35.234Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+373,LOG,2018-01-29T23:43:41.487Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-29T23:43:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+374,LOG,2018-02-06T01:10:40.837Z,GRAVITY,wgv,wgv,wgv,bob_12042,91,seq,,,,OB started at 2018-02-06T01:10:40,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+375,LOG,2018-01-26T12:49:23.634Z,GRAVITY,wgv,wgv,wgv,bob_ins,138,seq,,,,OB finished (TERMINATED) in 13999 seconds at 2018-01-26T12:49:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+376,LOG,2018-01-30T15:21:26.857Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+377,LOG,2018-01-26T21:34:27.040Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T21:34:27,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+378,LOG,2018-01-30T00:08:43.973Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T00:08:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+379,LOG,2018-01-26T20:16:20.218Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T20:16:20,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+380,LOG,2018-01-26T21:59:13.375Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T21:59:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+381,LOG,2018-01-30T01:28:19.165Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T01:28:19,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+382,LOG,2018-01-30T01:29:29.050Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T01:29:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+383,LOG,2018-01-26T21:47:15.161Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T21:47:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+384,LOG,2018-01-26T21:49:11.538Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T21:49:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+385,LOG,2018-01-28T01:33:45.854Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T01:33:45,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+386,LOG,2018-01-28T01:33:45.854Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_Rigel // OBS.ID: 1807274),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+387,LOG,2018-01-30T03:10:43.587Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1728 seconds at 2018-01-30T03:10:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+388,LOG,2018-01-30T03:10:53.572Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T03:10:53,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+389,LOG,2018-01-28T01:10:40.246Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1878 seconds at 2018-01-28T01:10:40,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+390,LOG,2018-01-28T01:10:50.559Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HD43687_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_noFT // OBS.ID: 1797308),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+391,LOG,2018-01-27T05:48:17.480Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1754 seconds at 2018-01-27T05:48:17,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+392,LOG,2018-01-27T05:48:26.132Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T05:48:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+393,LOG,2018-01-29T03:04:45.838Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+394,LOG,2018-01-31T00:53:16.971Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 1018 seconds at 2018-01-31T00:53:16,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+395,LOG,2018-01-27T05:18:45.035Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 2280 seconds at 2018-01-27T05:18:45,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+396,LOG,2018-01-27T05:19:03.217Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T05:19:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+397,LOG,2018-01-31T00:17:41.786Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB continued at 2018-01-31T00:17:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+398,LOG,2018-01-29T03:17:49.850Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T03:17:49,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+399,LOG,2018-01-27T04:58:22.459Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-27T04:58:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+400,LOG,2018-01-30T02:36:44.906Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 716 seconds at 2018-01-30T02:36:44,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+401,LOG,2018-01-29T03:04:45.835Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+402,LOG,2018-01-31T00:33:00.293Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1829001),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+403,LOG,2018-01-31T00:36:18.014Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-31T00:36:18,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+404,LOG,2018-01-31T00:36:18.014Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1829001),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+405,LOG,2018-01-30T02:24:27.000Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1271 seconds at 2018-01-30T02:24:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+406,LOG,2018-01-30T02:24:48.480Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_CETau_GRAVITY_A0B2C1D0_HIGH-COMBINED_FT_3 // OBS.ID: 1787465),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+407,LOG,2018-01-28T00:39:22.233Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HD45677_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_FT // OBS.ID: 1797305),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+408,LOG,2018-01-31T00:33:00.293Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-31T00:33:00,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+409,LOG,2018-01-31T00:35:42.838Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1829001),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+410,LOG,2018-01-31T00:36:02.398Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 18 seconds at 2018-01-31T00:36:00,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+411,LOG,2018-01-28T00:53:10.441Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T00:53:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+412,LOG,2018-01-26T22:13:40.435Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T22:13:40,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+413,LOG,2018-01-30T19:16:09.832Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB paused at 2018-01-30T19:16:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+414,LOG,2018-01-30T02:24:48.480Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T02:24:48,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+415,LOG,2018-01-28T00:09:26.575Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T00:09:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+416,LOG,2018-01-28T00:09:26.576Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: B02_HD44951_MED_SPLIT // OBS.ID: 200426861),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+417,LOG,2018-02-05T20:12:55.483Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,OB started at 2018-02-05T20:12:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+418,LOG,2018-02-05T20:14:24.571Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,OB started at 2018-02-05T20:14:24,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+419,LOG,2018-02-05T20:15:30.666Z,GRAVITY,wgv,wgv,wgv,bob_22151,242,seq,,,,OB aborted after 62 seconds at 2018-02-05T20:15:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-05.csv
+420,LOG,2018-01-29T03:24:23.314Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_HD45677_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_FT // OBS.ID: 1797285),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+421,LOG,2018-01-26T20:41:14.258Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T20:41:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+422,LOG,2018-01-28T19:08:19.968Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-28T19:08:19,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+423,LOG,2018-01-29T23:43:35.417Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-29T23:43:35,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+424,LOG,2018-01-26T20:20:58.864Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T20:20:58,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+425,LOG,2018-01-26T20:29:46.889Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T20:29:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+426,LOG,2018-01-29T03:57:12.391Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1969 seconds at 2018-01-29T03:57:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+427,LOG,2018-01-30T00:18:32.124Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T00:18:32,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+428,LOG,2018-01-27T20:50:41.156Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-27T20:50:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+429,LOG,2018-01-26T20:05:34.604Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+430,LOG,2018-01-31T05:21:39.123Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1829001),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+431,LOG,2018-01-30T05:21:57.118Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 747 seconds at 2018-01-30T05:21:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+432,LOG,2018-01-30T05:22:13.280Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T05:22:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+433,LOG,2018-01-30T02:41:55.727Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828980),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+434,LOG,2018-01-29T05:52:41.204Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-29T05:52:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+435,LOG,2018-01-28T03:19:40.614Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HD45677_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_FT // OBS.ID: 1797296),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+436,LOG,2018-01-27T07:48:01.804Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T07:48:01,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+437,LOG,2018-01-30T05:09:06.269Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 1858 seconds at 2018-01-30T05:09:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+438,LOG,2018-01-30T05:09:30.883Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T05:09:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+439,LOG,2018-01-29T05:42:38.215Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+440,LOG,2018-01-29T05:42:51.870Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 5 seconds at 2018-01-29T05:42:51,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+441,LOG,2018-01-31T04:52:02.223Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1829001),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+442,LOG,2018-01-31T13:30:31.981Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,OB continued at 2018-01-31T13:30:31,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+443,LOG,2018-02-04T07:13:33.446Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB started at 2018-02-04T07:13:33,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+444,LOG,2018-01-27T23:40:42.631Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 14386 seconds at 2018-01-27T23:40:42,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+445,LOG,2018-01-28T21:55:43.744Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-28T21:55:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+446,LOG,2018-02-04T06:43:19.162Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB finished (TERMINATED) in 2177 seconds at 2018-02-04T06:43:19,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+447,LOG,2018-01-30T01:16:33.229Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T01:16:33,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+448,LOG,2018-01-28T02:32:20.135Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1484 seconds at 2018-01-28T02:32:20,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+449,LOG,2018-01-28T02:32:36.003Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HD45677_GRAVITY_A0B2C1D0_MEDIUM-COMBINED_FT // OBS.ID: 1797296),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+450,LOG,2018-01-30T01:29:47.986Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:29:47,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+451,LOG,2018-01-30T01:31:41.196Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:31:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+452,LOG,2018-01-30T01:33:04.953Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB paused at 2018-01-30T01:33:04,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+453,LOG,2018-01-30T01:33:24.453Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-30T01:33:24,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+454,LOG,2018-01-28T02:07:07.006Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1571 seconds at 2018-01-28T02:07:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+455,LOG,2018-01-28T02:07:36.512Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_eOrionis // OBS.ID: 1807277),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+456,LOG,2018-01-30T02:03:06.461Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+457,LOG,2018-01-26T23:37:22.573Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T23:37:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+458,LOG,2018-01-26T21:53:12.501Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-26T21:53:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+459,LOG,2018-01-26T21:55:12.697Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-26T21:55:12,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+460,LOG,2018-02-04T07:38:05.045Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB aborted after 1470 seconds at 2018-02-04T07:38:03,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+461,LOG,2018-02-04T07:13:24.158Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+462,LOG,2018-02-04T07:13:24.162Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+463,LOG,2018-01-29T03:24:09.245Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB finished (TERMINATED) in 1153 seconds at 2018-01-29T03:24:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+464,LOG,2018-01-31T00:53:16.958Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+465,LOG,2018-01-31T00:53:16.962Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+466,LOG,2018-01-31T20:00:07.620Z,GRAVITY,wgv,wgv,wgv,bob_23760,35,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+467,LOG,2018-01-31T20:00:07.669Z,GRAVITY,wgv,wgv,wgv,bob_23760,35,seq,,,,OB aborted after 7785 seconds at 2018-01-31T20:00:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+468,LOG,2018-01-28T00:26:46.474Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T00:26:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+469,LOG,2018-01-27T04:40:45.678Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T04:40:45,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+470,LOG,2018-01-27T04:40:45.678Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: M05_HD80251_MED_SPLIT // OBS.ID: 200429543),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+471,LOG,2018-01-27T08:13:16.558Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: SCI_RCar // OBS.ID: 1818570),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+472,LOG,2018-01-27T05:30:01.578Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-27T05:30:01,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+473,LOG,2018-01-28T04:00:57.024Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1408 seconds at 2018-01-28T04:00:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+474,LOG,2018-01-27T06:23:14.161Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-27T06:23:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+475,LOG,2018-01-28T02:15:08.317Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T02:15:08,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+476,LOG,2018-01-28T02:15:11.461Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T02:15:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+477,LOG,2018-01-27T06:43:32.612Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1701 seconds at 2018-01-27T06:43:32,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+478,LOG,2018-01-27T06:43:50.208Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,(OBS.NAME: CAL_HD80404 // OBS.ID: 1818559),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+479,LOG,2018-01-29T06:16:10.797Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+480,LOG,2018-01-29T06:16:28.832Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T06:16:28,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+481,LOG,2018-01-28T03:37:29.878Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T03:37:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+482,LOG,2018-01-31T20:26:00.063Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB aborted after 252 seconds at 2018-01-31T20:26:00,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+483,LOG,2018-01-31T20:30:08.412Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+484,LOG,2018-01-31T20:32:06.965Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+485,LOG,2018-01-31T20:38:14.479Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB started at 2018-01-31T20:38:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+486,LOG,2018-01-31T20:38:14.479Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+487,LOG,2018-01-31T20:40:49.605Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB aborted after 155 seconds at 2018-01-31T20:40:49,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+488,LOG,2018-01-31T21:41:45.738Z,GRAVITY,wgv,wgv,wgv,bob_2631,170,seq,,,,OB started at 2018-01-31T21:41:45,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+489,LOG,2018-01-31T21:41:45.738Z,GRAVITY,wgv,wgv,wgv,bob_2631,170,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+490,LOG,2018-01-31T05:53:13.343Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB started at 2018-01-31T05:53:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+491,LOG,2018-01-27T08:19:23.930Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB paused at 2018-01-27T08:19:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+492,LOG,2018-01-29T06:42:07.963Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T06:42:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+493,LOG,2018-01-29T06:42:07.963Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_HD55526 // OBS.ID: 1828976),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+494,LOG,2018-01-28T07:18:30.781Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T07:18:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+495,LOG,2018-01-31T20:17:34.222Z,GRAVITY,wgv,wgv,wgv,bob_7735,168,seq,,,,OB aborted after 112 seconds at 2018-01-31T20:17:34,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+496,LOG,2018-01-31T14:49:55.142Z,GRAVITY,wgv,wgv,wgv,bob_ins,74,seq,,,,OB finished (TERMINATED) in 5297 seconds at 2018-01-31T14:49:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+497,LOG,2018-01-31T17:50:22.901Z,GRAVITY,wgv,wgv,wgv,bob_23760,35,seq,,,,OB started at 2018-01-31T17:50:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+498,LOG,2018-01-28T08:56:47.235Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1532 seconds at 2018-01-28T08:56:47,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+499,LOG,2018-01-31T05:14:05.172Z,GRAVITY,wgv,wgv,wgv,bob_3493,51,seq,,,,OB aborted after 1315 seconds at 2018-01-31T05:13:57,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-30.csv
+500,LOG,2018-02-05T10:41:09.344Z,GRAVITY,wgv,wgv,wgv,bob_ins,216,seq,,,,OB finished (TERMINATED) in 8331 seconds at 2018-02-05T10:41:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-04.csv
+501,LOG,2018-01-28T08:09:03.497Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810809),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+502,LOG,2018-01-26T08:56:04.070Z,GRAVITY,wgv,wgv,wgv,bob_ins,138,seq,,,,OB started at 2018-01-26T08:56:04,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+503,LOG,2018-01-26T08:56:04.070Z,GRAVITY,wgv,wgv,wgv,bob_ins,138,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+504,LOG,2018-01-25T19:12:22.603Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,OB started at 2018-01-25T19:12:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+505,LOG,2018-01-25T20:28:39.605Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,OB aborted after 4577 seconds at 2018-01-25T20:28:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+506,LOG,2018-01-28T02:07:36.512Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T02:07:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+507,LOG,2018-01-27T06:25:16.885Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB continued at 2018-01-27T06:25:16,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+508,LOG,2018-02-04T07:13:24.176Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,OB aborted after 1785 seconds at 2018-02-04T07:13:24,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+509,LOG,2018-02-04T07:13:33.447Z,GRAVITY,wgv,wgv,wgv,bob_14220,71,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0G1J2J3_LOW-COMBINED_FT // OBS.ID: 1810751),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+510,LOG,2018-01-29T23:58:10.272Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB continued at 2018-01-29T23:58:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+511,LOG,2018-01-30T04:38:08.007Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T04:38:08,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+512,LOG,2018-02-04T11:07:39.474Z,GRAVITY,wgv,wgv,wgv,bob_ins,94,seq,,,,OB finished (TERMINATED) in 6088 seconds at 2018-02-04T11:07:39,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+513,LOG,2018-01-27T06:15:11.580Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T06:15:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+514,LOG,2018-01-29T04:40:06.691Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB continued at 2018-01-29T04:40:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+515,LOG,2018-02-04T09:26:11.325Z,GRAVITY,wgv,wgv,wgv,bob_ins,94,seq,,,,OB started at 2018-02-04T09:26:11,0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+516,LOG,2018-01-29T05:30:06.805Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T05:30:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+517,LOG,2018-01-27T07:08:32.990Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB finished (TERMINATED) in 1482 seconds at 2018-01-27T07:08:32,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+518,LOG,2018-01-27T07:08:47.835Z,GRAVITY,wgv,wgv,wgv,bob_901,189,seq,,,,OB started at 2018-01-27T07:08:47,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+519,LOG,2018-01-29T12:26:30.645Z,GRAVITY,wgv,wgv,wgv,bob_ins,187,seq,,,,OB finished (TERMINATED) in 7937 seconds at 2018-01-29T12:26:30,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+520,LOG,2018-01-28T05:49:02.856Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810787),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+521,LOG,2018-01-28T04:36:58.362Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T04:36:58,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+522,LOG,2018-01-28T05:06:21.653Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810787),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+523,LOG,2018-01-29T05:42:38.210Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,ERROR: ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+524,LOG,2018-01-29T05:42:38.228Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 752 seconds at 2018-01-29T05:42:38,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+525,LOG,2018-01-29T05:43:11.331Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828973),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+526,LOG,2018-01-28T03:00:26.052Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB paused at 2018-01-28T03:00:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+527,LOG,2018-01-28T03:00:29.739Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T03:00:29,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+528,LOG,2018-01-30T06:40:27.079Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB finished (TERMINATED) in 2988 seconds at 2018-01-30T06:40:27,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+529,LOG,2018-01-29T07:27:43.026Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB aborted after 1532 seconds at 2018-01-29T07:27:43,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+530,LOG,2018-01-29T07:27:53.957Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828973),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+531,LOG,2018-01-28T05:06:15.718Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T05:06:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+532,LOG,2018-01-28T05:06:15.718Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810790),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+533,LOG,2018-01-28T05:15:37.655Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB continued at 2018-01-28T05:15:37,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+534,LOG,2018-01-29T08:44:26.669Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T08:44:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+535,LOG,2018-01-28T06:11:07.110Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1325 seconds at 2018-01-28T06:11:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+536,LOG,2018-01-30T07:52:07.029Z,GRAVITY,wgv,wgv,wgv,bob_ins,197,seq,,,,OB started at 2018-01-30T07:52:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+537,LOG,2018-01-30T07:52:07.029Z,GRAVITY,wgv,wgv,wgv,bob_ins,197,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+538,LOG,2018-01-29T08:56:50.571Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB started at 2018-01-29T08:56:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+539,LOG,2018-01-30T07:12:13.540Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB aborted after 13 seconds at 2018-01-30T07:12:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+540,LOG,2018-01-30T07:13:26.966Z,GRAVITY,wgv,wgv,wgv,bob_13298,252,seq,,,,OB started at 2018-01-30T07:13:26,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-29.csv
+541,LOG,2018-01-29T09:03:13.046Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: CAL_AlfCenAB_FTA_SCB // OBS.ID: 1800719),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+542,LOG,2018-01-29T09:04:10.175Z,GRAVITY,wgv,wgv,wgv,bob_22602,196,seq,,,,OB started at 2018-01-29T09:04:10,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+543,LOG,2018-02-04T09:26:11.325Z,GRAVITY,wgv,wgv,wgv,bob_ins,94,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/02/log_wgv.2018-02-03.csv
+544,LOG,2018-01-24T11:56:57.764Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+545,LOG,2018-01-24T11:42:05.964Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,OB aborted after 5 seconds at 2018-01-24T08:24:00,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+546,LOG,2018-01-28T06:48:49.075Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T06:48:49,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+547,LOG,2018-01-29T07:07:32.089Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,OB paused at 2018-01-29T07:07:32,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+548,LOG,2018-01-28T04:36:58.362Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810783),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+549,LOG,2018-01-29T07:02:11.131Z,GRAVITY,wgv,wgv,wgv,bob_23983,123,seq,,,,(OBS.NAME: SCI_L2Pup // OBS.ID: 1828973),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+550,LOG,2018-01-27T09:05:13.365Z,GRAVITY,wgv,wgv,wgv,bob_ins,195,seq,,,,OB started at 2018-01-27T09:05:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-26.csv
+551,LOG,2018-01-28T06:48:16.749Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 2179 seconds at 2018-01-28T06:48:16,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+552,LOG,2018-01-28T12:10:04.667Z,GRAVITY,wgv,wgv,wgv,bob_ins,87,seq,,,,OB finished (TERMINATED) in 10195 seconds at 2018-01-28T12:10:04,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+553,LOG,2018-01-25T21:36:27.060Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+554,LOG,2018-01-28T07:18:30.781Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810806),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+555,LOG,2018-01-25T20:28:39.513Z,GRAVITY,wgv,wgv,wgv,bob_34045,124,seq,,,,ACK ABORT (red),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-25.csv
+556,LOG,2018-01-29T10:14:13.864Z,GRAVITY,wgv,wgv,wgv,bob_ins,187,seq,,,,OB started at 2018-01-29T10:14:13,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+557,LOG,2018-01-29T10:14:13.864Z,GRAVITY,wgv,wgv,wgv,bob_ins,187,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-28.csv
+558,LOG,2018-01-24T08:23:22.078Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+559,LOG,2018-01-24T08:23:31.563Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,OB aborted after 0 seconds at 2018-01-24T08:23:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+560,LOG,2018-01-28T08:07:29.152Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB aborted after 415 seconds at 2018-01-28T08:06:55,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+561,LOG,2018-01-28T08:56:54.595Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB started at 2018-01-28T08:56:54,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+562,LOG,2018-01-28T08:56:54.595Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: CAL_HIP50644_GRAVITY_A0B2C1D0_LOW-COMBINED_FT // OBS.ID: 1810831),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+563,LOG,2018-01-28T08:31:07.581Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,OB finished (TERMINATED) in 1324 seconds at 2018-01-28T08:31:07,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+564,LOG,2018-01-28T08:31:15.953Z,GRAVITY,wgv,wgv,wgv,bob_44345,166,seq,,,,(OBS.NAME: SCI_HRCar_GRAVITY_A0B2C1D0_LOW-COMBINED_noFT // OBS.ID: 1810828),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+565,LOG,2018-01-28T09:20:09.741Z,GRAVITY,wgv,wgv,wgv,bob_ins,87,seq,,,,OB started at 2018-01-28T09:20:09,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+566,LOG,2018-01-28T09:20:09.741Z,GRAVITY,wgv,wgv,wgv,bob_ins,87,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-27.csv
+567,LOG,2018-01-24T07:48:26.643Z,GRAVITY,wgv,wgv,wgv,bob_ins,84,seq,,,,OB aborted after 2 seconds at 2018-01-24T07:48:23,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-23.csv
+568,LOG,2018-02-01T01:51:52.621Z,GRAVITY,wgv,wgv,wgv,bob_36001,209,seq,,,,OB started at 2018-02-01T01:51:52,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+569,LOG,2018-02-01T01:36:31.841Z,GRAVITY,wgv,wgv,wgv,bob_7438,106,seq,,,,OB aborted after 219 seconds at 2018-02-01T01:36:31,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+570,LOG,2018-02-01T01:32:52.810Z,GRAVITY,wgv,wgv,wgv,bob_7438,106,seq,,,,OB started at 2018-02-01T01:32:52,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+571,LOG,2018-02-01T01:32:52.810Z,GRAVITY,wgv,wgv,wgv,bob_7438,106,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+572,LOG,2018-02-01T08:09:06.828Z,GRAVITY,wgv,wgv,wgv,bob_ins,204,seq,,,,OB started at 2018-02-01T08:09:06,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+573,LOG,2018-02-01T08:09:06.828Z,GRAVITY,wgv,wgv,wgv,bob_ins,204,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+574,LOG,2018-02-01T01:51:52.621Z,GRAVITY,wgv,wgv,wgv,bob_36001,209,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+575,LOG,2018-02-01T01:36:15.406Z,GRAVITY,wgv,wgv,wgv,bob_7438,106,seq,,,,OB paused at 2018-02-01T01:36:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+576,LOG,2018-02-01T02:50:51.036Z,GRAVITY,wgv,wgv,wgv,bob_36001,209,seq,,,,OB finished (TERMINATED) in 3538 seconds at 2018-02-01T02:50:50,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-31.csv
+577,LOG,2018-01-24T12:41:48.760Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+578,LOG,2018-01-24T12:47:36.751Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+579,LOG,2018-01-24T12:50:22.515Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB aborted after 158 seconds at 2018-01-24T12:50:14,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+580,LOG,2018-01-24T13:19:22.901Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+581,LOG,2018-01-24T12:41:48.760Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB started at 2018-01-24T12:41:48,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+582,LOG,2018-01-24T12:45:23.326Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB aborted after 147 seconds at 2018-01-24T12:44:15,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+583,LOG,2018-01-24T12:47:36.750Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB started at 2018-01-24T12:47:36,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+584,LOG,2018-01-24T13:19:22.901Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB started at 2018-01-24T13:19:22,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+585,LOG,2018-01-24T12:37:55.364Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB aborted after 1527 seconds at 2018-01-24T12:22:24,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+586,LOG,2018-01-24T13:58:42.781Z,GRAVITY,wgv,wgv,wgv,bob_40579,204,seq,,,,OB finished (TERMINATED) in 2360 seconds at 2018-01-24T13:58:42,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+587,LOG,2018-01-25T06:23:41.665Z,GRAVITY,wgv,wgv,wgv,bob_ins,186,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+588,LOG,2018-01-25T06:23:41.665Z,GRAVITY,wgv,wgv,wgv,bob_ins,186,seq,,,,OB started at 2018-01-25T06:23:41,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+589,LOG,2018-01-25T07:22:46.796Z,GRAVITY,wgv,wgv,wgv,bob_ins,186,seq,,,,OB finished (TERMINATED) in 3545 seconds at 2018-01-25T07:22:46,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+590,LOG,2018-01-25T06:18:59.341Z,GRAVITY,wgv,wgv,wgv,bob_ins,186,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+591,LOG,2018-01-25T06:18:59.341Z,GRAVITY,wgv,wgv,wgv,bob_ins,186,seq,,,,OB started at 2018-01-25T06:18:59,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv
+592,LOG,2018-01-25T06:21:08.830Z,GRAVITY,wgv,wgv,wgv,bob_ins,186,seq,,,,OB aborted after 0 seconds at 2018-01-25T06:18:59,0,0,,,/datalake/processeddata/csv-vltlogs/2018/01/log_wgv.2018-01-24.csv

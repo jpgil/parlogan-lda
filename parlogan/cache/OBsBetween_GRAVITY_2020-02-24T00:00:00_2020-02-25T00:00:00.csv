@@ -1,0 +1,12 @@
+,@timestamp,logtype,system,loghost,hostname,envname,procname,procid,module,keywname,keywvalue,keywmask,logtext,errstack,errstackidx,errlocation,errseverity
+0,2020-02-24T09:30:17.938,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,137,seq,,,,(OBS.NAME: ToO calibrations // OBS.ID: 200385148),0,0,,
+1,2020-02-24T05:12:01.851,LOG,GRAVITY,wgv,wgv,wgv,bob_4954,112,seq,,,,OB finished (TERMINATED) in 1269 seconds at 2020-02-24T05:12:01,0,0,,
+2,2020-02-24T04:50:52.359,LOG,GRAVITY,wgv,wgv,wgv,bob_4954,112,seq,,,,OB started at 2020-02-24T04:50:52,0,0,,
+3,2020-02-24T19:39:44.068,LOG,GRAVITY,wgv,wgv,wgv,bob_45034,175,seq,,,,OB finished (TERMINATED) in 3583 seconds at 2020-02-24T19:39:43,0,0,,
+4,2020-02-24T09:38:56.101,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,137,seq,,,,OB started at 2020-02-24T09:38:56,0,0,,
+5,2020-02-24T09:38:56.101,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,137,seq,,,,(OBS.NAME: Calibration // OBS.ID: 200385148),0,0,,
+6,2020-02-24T09:30:17.938,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,137,seq,,,,OB started at 2020-02-24T09:30:17,0,0,,
+7,2020-02-24T04:50:52.359,LOG,GRAVITY,wgv,wgv,wgv,bob_4954,112,seq,,,,(OBS.NAME: B02_HD71878_MED_SPLIT // OBS.ID: 200452453),0,0,,
+8,2020-02-24T18:40:00.934,LOG,GRAVITY,wgv,wgv,wgv,bob_45034,175,seq,,,,(OBS.NAME: Calibration // OBS.ID: -1),0,0,,
+9,2020-02-24T09:38:56.050,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,137,seq,,,,OB finished (TERMINATED) in 518 seconds at 2020-02-24T09:38:55,0,0,,
+10,2020-02-24T18:40:00.934,LOG,GRAVITY,wgv,wgv,wgv,bob_45034,175,seq,,,,OB started at 2020-02-24T18:40:00,0,0,,

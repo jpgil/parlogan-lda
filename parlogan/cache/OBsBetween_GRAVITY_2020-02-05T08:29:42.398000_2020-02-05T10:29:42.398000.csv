@@ -1,0 +1,8 @@
+,@timestamp,logtype,system,loghost,hostname,envname,procname,procid,module,keywname,keywvalue,keywmask,logtext,errstack,errstackidx,errlocation,errseverity
+0,2020-02-05T08:40:59.383,LOG,GRAVITY,wgv,wgv,wgv,bob_20080,155,seq,,,,OB continued at 2020-02-05T08:40:59,0,0,,
+1,2020-02-05T08:36:18.597,LOG,GRAVITY,wgv,wgv,wgv,bob_20080,155,seq,,,,OB started at 2020-02-05T08:36:18,0,0,,
+2,2020-02-05T09:05:11.140,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,146,seq,,,,OB started at 2020-02-05T09:05:11,0,0,,
+3,2020-02-05T09:05:11.140,LOG,GRAVITY,wgv,wgv,wgv,bob_ins,146,seq,,,,(OBS.NAME: ToO calibrations // OBS.ID: 200385148),0,0,,
+4,2020-02-05T08:36:18.597,LOG,GRAVITY,wgv,wgv,wgv,bob_20080,155,seq,,,,(OBS.NAME: CAL_HD_85683_GRAVITY_medium_LOW-COMBINED // OBS.ID: 2534734),0,0,,
+5,2020-02-05T08:50:14.294,LOG,GRAVITY,wgv,wgv,wgv,bob_20080,155,seq,,,,OB finished (TERMINATED) in 836 seconds at 2020-02-05T08:50:14,0,0,,
+6,2020-02-05T08:40:56.946,LOG,GRAVITY,wgv,wgv,wgv,bob_20080,155,seq,,,,OB paused at 2020-02-05T08:40:56,0,0,,
